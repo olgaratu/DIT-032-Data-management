@@ -1,0 +1,92 @@
+{
+  "Asia": {
+    "name": "Asia",
+    "area": 44579000,
+    "largest_countries": [
+      {
+        "code": "R",
+        "name": "Russia",
+        "area": 17075200,
+        "population": 143666931
+      },
+      {
+        "code": "CN",
+        "name": "China",
+        "area": 9596960,
+        "population": 1360720000
+      },
+      {
+        "code": "IND",
+        "name": "India",
+        "area": 3287590,
+        "capital": "Delhi"},
+      {
+        "code": "KAZ",
+        "name": "Kazakhstan",
+        "area": 2717300
+      },
+      {
+        "code": "SA",
+        "name": "Saudi Arabia",
+        "area": 1960582
+      }
+    ],
+    "biggest_cities": [
+      {
+        "name": "Shanghai",
+        "country": "CN",
+        "population": 22315474,
+        "province": "Shanghai"
+      },
+      {
+        "name": "Istanbul",
+        "country": "TR",
+        "population": 13710512,
+        "latitude": 41.01,
+        "longitude": 28.96
+      },
+      {
+        "name": "Mumbai",
+        "country": "IND",
+        "population": 12442373,
+        "elevation": 14
+      },
+      {
+        "name": "Moskva",
+        "country": "R",
+        "population": 11979529,
+        "elevation": 156
+      },
+      {
+        "name": "Beijing",
+        "country": "CN",
+        "population": 11716620
+      },
+      {
+        "name": "Tianjin",
+        "country": "CN",
+        "population": 11090314
+      },
+      {
+        "name": "Guangzhou",
+        "country": "CN",
+        "population": 11071424
+      },
+      {
+        "name": "Delhi",
+        "country": "IND",
+        "population": 11034555
+      },
+      {
+        "name": "Shenzhen",
+        "country": "CN",
+        "population": 10358381
+      },
+      {
+        "name": "Wuhan",
+        "country": "CN",
+        "population": 9785388
+      }
+    ]
+  }
+}

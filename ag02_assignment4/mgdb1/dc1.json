@@ -1,0 +1,56 @@
+{
+  "name": "Data Center 1",
+  "capacity": "10 000 G",
+  "location": {
+    "city": "Gothenburg",
+    "street": "Sagagatan",
+    "number": 1
+  },
+  "manager": { "id": 1},
+  "users": [
+    {"user_id": 1234,
+      "role": ["Manager","Developer"]
+    },
+    {
+      "user_id": 8034,
+      "referrer_id": 1234,
+      "role": "Admin"
+    }
+  ],
+  "servers": [
+    {
+      "name" : "SE Server 1",
+      "server_id" : 13457,
+      "hardware" : "Intel Core Duo i7 - 4790",
+      "processes" :
+      [{
+        "process_id" : 3254235,
+        "type" : "DB",
+        "process_details" : {
+          "disk_space" :  "455 G",
+          "type" : "MongoDB"
+        }
+      },
+        {
+          "process_id" : 32142355
+        },
+        { "process_id" : 1232435,
+          "type": "VM",
+          "process_details": {
+            "CPU" : 2,
+            "MEM" : "4G",
+            "owner" : 1234
+          }
+        },
+        {
+          "process_id": 1232987,
+          "type": "VM",
+          "process_details": {
+            "CPU": 5,
+            "MEM": "16G"
+          }
+        }]
+    }
+  ]
+}
+

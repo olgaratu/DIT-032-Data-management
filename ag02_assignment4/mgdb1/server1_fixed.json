@@ -1,0 +1,34 @@
+{
+  "name" : "SE Server 1",
+  "server_id" : 13457,
+  "hardware" : "Intel Core Duo i7 - 4790",
+  "processes" :
+  [{
+    "process_id" : 3254235,
+    "type" : "DB",
+    "process_details" : {
+      "disk_space" :  "455 G",
+      "type" : "MongoDB"
+    }
+  },
+{
+  "process_id" : 32142355
+},
+{ "process_id" : 1232435,
+"type": "VM",
+"process_details": {
+"CPU" : 2,
+"MEM" : "4G",
+"owner" : 1234
+}
+},
+{
+"process_id": 1232987,
+"type": "VM",
+"process_details": {
+"CPU": 5,
+"MEM": "16G"
+}
+}
+    ]
+}

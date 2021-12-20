@@ -1,0 +1,16 @@
+# MGDB1.1
+ We have found  3 types of errors:
+ 1. Missing quotation marks for name process_id.
+ 2. Missing quotation marks for declaring a String value, e.x. line 10 455G and line 22 4G
+ 3. Missing square brackets [] for declaring an array of "processes" values line 6 and 33
+
+
+# MGDB1.2
+
+Data Center has 3 attributes (on of  them is composite "location"),
+1-N relationship with User entity "manager" and contains many servers.
+
+
+
+
+

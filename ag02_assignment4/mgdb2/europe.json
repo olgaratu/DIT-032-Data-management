@@ -1,0 +1,137 @@
+{
+  "Europe":{
+    "name": "Europe",
+    "area": 9938000,
+    "largest countries": [
+      {
+        "code": "UA",
+        "name": "Ukraine",
+        "area": "603700",
+        "capital": "Kyïv",
+        "population": 45633637
+      },
+      {
+        "code": "F",
+        "name": "France",
+        "area": "547030",
+        "capital": "Paris",
+        "population": 64933400
+      },
+      {
+        "code": "E",
+        "name": "Spain",
+        "area": "504750",
+        "capital": "Madrid",
+        "population": 46815916
+      },
+      {
+        "code": "S",
+        "name": "Sweden",
+        "area": "449964",
+        "capital": "Stockholm",
+        "population": 9555893
+      },
+      {
+        "code": "D",
+        "name": "Germany",
+        "area": "356910",
+        "capital": "Berlin",
+        "population": 80219695
+      }
+    ],
+
+    "biggest cities": [
+      {
+        "name": "Istanbul",
+        "country": "TR",
+        "population": 13710512,
+        "province": "İstanbul",
+        "latitude" : 41.01,
+        "longitude": 28.96,
+        "eleveation":40
+      },
+      {
+        "name": "Moskva",
+        "country": "R",
+        "population": 11979529,
+        "province": "Moscow",
+        "latitude" : 55.75,
+        "longitude": 37.62,
+        "eleveation": 156
+      },
+      {
+        "name": "London",
+        "country": "GB",
+        "population": 8250205,
+        "province": "London",
+        "latitude" : 51.52,
+        "longitude": -0.09,
+        "eleveation": 0
+      },
+      {
+        "name": "Sankt-Peterburg",
+        "country": "R",
+        "population": 5028000,
+        "province": "Sankt-Peterburg",
+        "latitude" : 59.95,
+        "longitude": 30.3,
+        "eleveation":3
+      },
+      {
+        "name": "Ankara",
+        "country": "TR",
+        "population": 4630735,
+        "province": "Ankara",
+        "latitude" : 39.93,
+        "longitude": 32.87,
+        "eleveation": 938
+      },
+      {
+        "name": "Izmir",
+        "country": "TR",
+        "population": 3401994,
+        "province": "İzmir",
+        "latitude" : 38.42,
+        "longitude": 27.13,
+        "eleveation":2
+      },
+      {
+        "name": "Berlin",
+        "country": "D",
+        "population": 3292365,
+        "province": "Berlin",
+        "latitude" : 52.52,
+        "longitude": 13.38,
+        "eleveation":34
+      },
+      {
+        "name": "Madrid",
+        "country": "E",
+        "population": 3198645,
+        "province": "Madrid",
+        "latitude" : 40.38,
+        "longitude": -3.72,
+        "eleveation": 667
+      },
+      {
+        "name": "Kyïv",
+        "country": "UA",
+        "population": 2814258,
+        "province": "Kyïv",
+        "latitude" : 50.45,
+        "longitude": 30.52,
+        "eleveation": 179
+      },
+      {
+        "name": "Roma",
+        "country": "I",
+        "population": 2617175,
+        "province": "Lazio",
+        "latitude" : 41.9,
+        "longitude": 12.5,
+        "eleveation":21
+      }
+    ]
+
+  }
+}
